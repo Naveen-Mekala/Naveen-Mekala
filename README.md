@@ -1,7 +1,7 @@
 # Hi, I'm Naveen Mekala 👋
 
-**MSc Data Science & Artificial Intelligence Candidate** at **EPITA School of Engineering and Computer Science, Paris**  
-📍 Paris, France | 📧 [naveenmekala98@gmail.com](mailto:naveenmekala98@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/naveen-mekala-ds/)
+**MSc Data Science & Artificial Intelligence Candidate** at **EPITA School of Engineering and Computer Science, Paris**
+📍 Paris, France | 📧 [naveenvenkatasaikumar@gmail.com](mailto:naveenvenkatasaikumar@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/naveen-mekala-ds/)
 
 ---
 
@@ -33,4 +33,4 @@
 
 ### 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-mekala-ds/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenmekala98@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenvenkatasaikumar@gmail.com)
